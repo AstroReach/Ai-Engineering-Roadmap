@@ -5,7 +5,6 @@
 
 ## Table of Contents
 
-- [Why This Exists](#why-this-exists)
 - [Curriculum Overview](#curriculum-overview)
 - [Guided Curriculum Path](#guided-curriculum-path)
 - [Goals](#goals)
@@ -14,21 +13,6 @@
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
-
-
-## Why This Exists
-
-Artificial Intelligence is reshaping every industry, yet access to quality, structured AI education is often locked behind paywalls or expensive degrees. This project offers a **comprehensive, open-source curriculum** for learning AI engineering, covering fundamentals to cutting-edge topics like:
-
-- Machine Learning & Deep Learning  
-- Math for AI  
-- Natural Language Processing, Computer Vision, and RL 
-- Large Language Models (LLMs)  
-- Agentic AI, RAG, Prompt Engineering  
-- Real-world Projects and Deployment  
-
-Everything here is **free**, self-paced, and community-curated.
-
 
 
 ## Curriculum Overview
@@ -45,9 +29,6 @@ Everything here is **free**, self-paced, and community-curated.
 
 
 ## Guided Curriculum Path
-
-Follow the curriculum in order, or jump to any section you’re ready for. Each link leads to detailed resources and recommendations.
-
 
 | Step | Topic | Link | Est. Duration |
 |------|-------|------|---------------|
